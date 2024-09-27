@@ -1,5 +1,7 @@
+## Welcome to My GitHub Profile! 👋
+I'm HASSAN EL BAHRAOUI, a student specializing in Data Science, A.I., and Digital Health Engineering.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HASSAN EL BAHRAOUI) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/HAS1ELB) 
 
 # 💻 Tech Stack:
