@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm EL BAHRAOUI Hassan</h1>
-<p>Student in Digital Engineering — specializing in Data Science, Artificial Intelligence, and Digital Health.</p>
+<p>Engineering Student specializing in Data Science and Artificial Intelligence.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
