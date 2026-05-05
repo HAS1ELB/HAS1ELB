@@ -16,7 +16,7 @@ I’m currently working on implementing an intelligent digital twin that replica
 ![](https://github-profile-trophy.vercel.app/?username=has1elb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=has1elb&limit=5)
+![](https://github-contributor-stats.vercel.app/api?username=has1elb)
 
 ---
 [![](https://komarev.com/ghpvc/?username=has1elb)](https://visitcount.itsvg.in)
